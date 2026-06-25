@@ -62,7 +62,3 @@ Then ask things like *"Look up the GitHub user octocat"* or
 src/github_mcp/server.py   # FastMCP server and tool definitions
 tests/                     # Tests
 ```
-
-## License
-
-MIT
